@@ -12,7 +12,7 @@ Moving forward, further refinements and optimizations could be explored to impro
 # Dataset
 The dataset used for this project is obtained from Kaggle and contains information about credit card transactions. It consists of features such as transaction amount, time, and various anonymized features.
 
-Dataset link: Credit Card Fraud Detection Dataset
+[Dataset link]:( Credit Card Fraud Detection Dataset)
 
 # Algorithms Used
 Logistic Regression
