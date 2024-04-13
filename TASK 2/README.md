@@ -1,4 +1,4 @@
-**Credit Card Fraud Detection Predictive Models**
+***Credit Card Fraud Detection Predictive Models***
  This project aimed to develop predictive models for detecting fraudulent credit card transactions using machine learning techniques.
 
 After thorough data exploration and preprocessing, including handling missing values and addressing class imbalance, we trained multiple machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests, on the balanced dataset.
