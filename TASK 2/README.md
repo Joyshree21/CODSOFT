@@ -1,4 +1,4 @@
-***Credit Card Fraud Detection Predictive Models***
+# Credit Card Fraud Detection Predictive Models
  This project aimed to develop predictive models for detecting fraudulent credit card transactions using machine learning techniques.
 
 After thorough data exploration and preprocessing, including handling missing values and addressing class imbalance, we trained multiple machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests, on the balanced dataset.
@@ -9,12 +9,12 @@ This project has significant implications for financial institutions and busines
 
 Moving forward, further refinements and optimizations could be explored to improve the models' performance and adaptability to evolving fraud patterns. Additionally, ongoing monitoring and updating of the models will be essential to ensure their effectiveness in real-world scenarios.
 
-**Dataset**
+# Dataset
 The dataset used for this project is obtained from Kaggle and contains information about credit card transactions. It consists of features such as transaction amount, time, and various anonymized features.
 
 Dataset link: Credit Card Fraud Detection Dataset
 
-**Algorithms Used**
+# Algorithms Used
 Logistic Regression
 Decision Trees
 Random Forests
@@ -26,7 +26,7 @@ src/: Source code for data preprocessing, model training, and evaluation.
 README.md: Overview of the project, dataset, and project structure.
 
 
-**Result**
+# Result
      precision    recall  f1-score   support
 
            0       0.92      0.95      0.94       101
@@ -37,5 +37,5 @@ README.md: Overview of the project, dataset, and project structure.
 weighted avg       0.93      0.93      0.93       197
 
 
-**Conclusion**
+# Conclusion
 In conclusion, the developed models provide a reliable solution for detecting fraudulent credit card transactions, which can help financial institutions and businesses prevent potential losses due to fraudulent activities. Further improvements and fine-tuning could be explored to enhance the model's performance and adaptability to evolving fraud patterns.
