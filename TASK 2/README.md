@@ -18,7 +18,8 @@ The dataset used for this project is obtained from Kaggle and contains informati
 Logistic Regression
 Decision Trees
 Random Forests
-Project Structure
+
+# Project Structure
 data/: Folder containing the dataset files.
 notebooks/: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
 models/: Saved trained models.
