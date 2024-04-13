@@ -19,11 +19,17 @@ Logistic Regression
 Random Forests
 Gradient Boosting
 
-#Project Structure
+# Project Structure
+
+
 data/: Directory containing the dataset file customer_churn_data.csv.
+
 notebooks/: Directory containing Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
+
 models/: Directory containing saved trained models.
+
 src/: Directory containing source code for data preprocessing, model training, and evaluation.
+
 README.md: Overview of the project, dataset, algorithms used, and project structure.
 
 # Result
