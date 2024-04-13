@@ -8,9 +8,9 @@ This project aims to predict the genre of a movie based on its plot summary or o
 
 The dataset contains movie plot summaries along with their corresponding genres. Each row in the dataset represents a movie, and the columns include:
 
-- **Title**: The title of the movie.
-- **Plot**: The plot summary of the movie.
-- **Genre**: The genre(s) of the movie.
+- **Title**
+- **Plot**
+- **Genre**
 
 You can download the dataset from [here](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb).
 
