@@ -21,31 +21,7 @@ You can download the dataset from [here](https://www.kaggle.com/datasets/hijest/
 - **Machine Learning Models**: Several classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM) are employed to train the model on the extracted features.
 - **Evaluation**: The performance of each model is evaluated using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score.
 
-## Usage
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your_username/movie-genre-classification.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd movie-genre-classification
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the main script to train and evaluate the model:
-
-    ```bash
-    python main.py
-    ```
 
 ## Results
 
