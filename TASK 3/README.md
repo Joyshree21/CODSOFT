@@ -10,6 +10,10 @@ Feature 1
 Feature 2
 ...
 Churn (Target Variable)
+
+
+
+
 The dataset is stored in the file customer_churn_data.csv.
 
 # Algorithms
